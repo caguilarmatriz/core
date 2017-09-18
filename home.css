@@ -1,0 +1,91 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15-sep-2017, 22:28:41
+    Author     : Proyecto Consultoría
+*/
+
+/* Imagen Fondo */
+body {
+    background-image: url("images/HomeUniverse.jpg");
+    background-attachment: fixed;
+    background-color: #ffffff;
+    background-position: top;
+    background-size: cover;
+}
+input[type=text], [type=password], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 30%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 7px 20px;
+    margin: 5% 35%;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.container {
+    margin: 10% 30%;
+    width: 35%;
+    border-radius: 5px;
+    background-color: #f6f6f6;
+    padding: 20px;
+}
+
+.imgcontainer {
+    text-align: center;
+    /*margin: 24px 0 12px 0;*/
+}
+
+/* Avatar image */
+.LogoAvatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+/* Avatar image */
+.footer {
+    text-align: center;
+    color: white;
+    font-size: 11px;
+}
+
+/*Social Media*/
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Twitter */
+.fa-linkedin {
+    color: white;
+}

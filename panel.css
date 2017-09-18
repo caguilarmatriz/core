@@ -1,0 +1,17 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18-sep-2017, 19:08:05
+    Author     : Proyecto Consultoría
+*/
+
+body {
+    background-image: url("images/HomeUniverse.jpg");
+    background-attachment: fixed;
+    background-color: #ffffff;
+    background-position: top;
+    background-size: cover;
+}
